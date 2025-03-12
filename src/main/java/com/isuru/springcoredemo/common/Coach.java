@@ -1,4 +1,4 @@
-package com.isuru.util;
+package com.isuru.springcoredemo.common;
 
 public interface Coach{
     String getDailyWorkout();
