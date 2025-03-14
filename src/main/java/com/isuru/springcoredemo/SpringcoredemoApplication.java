@@ -3,14 +3,7 @@ package com.isuru.springcoredemo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/*
-@SpringBootApplication(
-		scanBasePackages = {
-							"com.isuru.springcoredemo",
-		                    "com.isuru.util"
-							}
-)
-*/
+
 @SpringBootApplication
 public class SpringcoredemoApplication {
 
