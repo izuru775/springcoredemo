@@ -1,6 +1,5 @@
 package com.isuru.springcoredemo.common;
 
-import org.springframework.context.annotation.Lazy;
 import org.springframework.stereotype.Component;
 
 @Component
